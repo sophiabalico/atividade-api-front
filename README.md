@@ -87,10 +87,11 @@ O arquivo `characterList.module.css` foi utilizado para estilizar o componente p
    cd <NOME_DO_REPOSITORIO>
 
 2. Instale as dependências:
-```npm install
+
+npm install
 
 3. Inicie o servidor de desenvolvimento:
 
-```npm run dev
+npm run dev
 
 4. Abra o navegador e acesse http://localhost:3000.
